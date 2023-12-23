@@ -75,17 +75,17 @@ const Homepage = () => {
           direction={"row"}
           spacing={6}
         >
-          <Link href={"https://github.com/Subrata-Rudra"} target="_blank">
+          <Link href={"https://github.com/Ankitraj7764/"} target="_blank">
             GitHub
           </Link>
           <Link
-            href={"https://www.linkedin.com/in/subrata-rudra-b481741b7/"}
+            href={"https://www.linkedin.com/in/ankit-raj-967501203/"}
             target="_blank"
           >
             LinkedIn
           </Link>
           <Link
-            href={"https://www.facebook.com/subrata.rudra.982/"}
+            href={"https://www.facebook.com/l/c58MadkgGeEX3O"}
             target="_blank"
           >
             FaceBook
